@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/lo2252">lo2252</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/lo2252">Logan Ouellette</a></h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/lo2252?v=4" alt="Profile Photo" width="150" style="border-radius:50%;" />
@@ -6,24 +6,15 @@
 
 ---
 
-## 🧑‍💼 About Me
+## About Me
 
-- 🔭 I'm currently working on exciting open-source and personal projects
-- 🌱 I'm continuously learning and growing as a developer
-- 💬 Ask me about software development, open-source, or anything tech-related
-- ⚡ Fun fact: I love exploring new technologies and building things from scratch
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year |
-|--------|-------------|------|
-| *Your Degree* | *Your University / School* | *Year* |
+- I'm building open-source and personal software projects.
+- I'm interested in scientific software, data workflows, and practical tooling.
+- Ask me about software development, open-source work, and tech projects.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ### Languages
 
@@ -58,19 +49,17 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Project 1](https://github.com/lo2252) | *Brief description of project 1* | *e.g. Python, Flask* |
-| [Project 2](https://github.com/lo2252) | *Brief description of project 2* | *e.g. React, Node.js* |
-| [Project 3](https://github.com/lo2252) | *Brief description of project 3* | *e.g. Java, Spring Boot* |
+| [ZEUS](https://github.com/lo2252/zeus) | Zebrafish ERG Utility Suite for analyzing electroretinography recordings with a reproducible workflow for import, validation, visualization, and export. | R, Shiny, ggplot2 |
 
-> 📌 Check out my [repositories](https://github.com/lo2252?tab=repositories) for more!
+Check out my [repositories](https://github.com/lo2252?tab=repositories) for more.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lo2252&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
@@ -86,7 +75,7 @@
   <a href="mailto:ouellettelogan4@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://[www.linkedin.com/in/your-profile](https://www.linkedin.com/in/logan-ouellette/)">
+  <a href="https://www.linkedin.com/in/logan-ouellette/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/lo2252">
