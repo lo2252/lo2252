@@ -77,16 +77,13 @@ Check out my [repositories](https://github.com/lo2252?tab=repositories) for more
 ## GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lo2252&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lo2252&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lo2252&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lo2252&layout=compact&langs_count=8&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lo2252&show=reviews,prs_merged,prs_merged_percentage&theme=default&hide_border=true" alt="Contribution Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lo2252&theme=default" alt="GitHub Profile Summary"/>
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lo2252&theme=github" />
 </p>
 
 ---
