@@ -1,7 +1,7 @@
 <h1 align="center">Logan Ouellette</h1>
 
 <p align="center">
-  MS Neuroscience • Neuroscience Researcher • Data Science Researcher • Machine Learning Developer
+  M.Sc. Neuroscience • Neuroscience Researcher • Data Science Researcher • Machine Learning Developer
 </p>
 
 <p align="center">
