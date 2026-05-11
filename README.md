@@ -77,6 +77,8 @@ Currently, I am seeking opportunities in Data Science, Data Analytics, Biotechno
 | Project | Description | Technologies |
 |---|---|---|
 | [ZEUS](https://github.com/lo2252/zeus) | Reproducible ERG analysis framework for zebrafish electrophysiology workflows. | R, Shiny, ggplot2 |
+| [ERG Treatment Identifier](https://github.com/lo2252/ERG_Treatment_Identifier) | CNN and I-ROCKET workflow for classifying zebrafish ERG waveforms by treatment group. | Python, TensorFlow, Keras, R |
+| [Neural Networking Repository](https://github.com/lo2252/Neural-Networking-Repository) | Portfolio of notebooks covering deep learning experiments across CNNs, RNNs, VAEs, and GANs. | Python, NumPy, TensorFlow, Keras |
 
 ---
 
