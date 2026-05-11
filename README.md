@@ -28,30 +28,6 @@ Currently, I am seeking opportunities in Data Science, Data Analytics, Biotechno
 
 ---
 
-## Current Research & Development
-
-### ZEUS — Zebrafish Electroretinography Utility Suite
-
-A reproducible R-based analysis framework for electroretinography (ERG) data processing and visualization.
-
-#### Core Features
-- ABF electrophysiology data import
-- Automated waveform processing
-- Signal filtering and baseline correction
-- Technical replicate averaging
-- Irradiance and protocol validation
-- Publication-quality visualization
-- Validation against OriginLab workflows
-
-#### Focus Areas
-- Electrophysiology analysis
-- Reproducible scientific pipelines
-- Biomedical signal processing
-- Machine learning integration
-- Data visualization
-
----
-
 ## Technical Skills
 
 ### Languages
@@ -117,6 +93,76 @@ A reproducible R-based analysis framework for electroretinography (ERG) data pro
 
 ---
 
+## Publications & Academic Work
+
+### Peer-Reviewed Publications
+
+**Thyroid Hormone and Estrogen Signaling Interactions in Zebrafish Visual System Function**  
+*Frontiers in Pharmacology (2026)*  
+Investigation of endocrine signaling interactions and their effects on zebrafish retinal physiology and visual system development.  
+https://doi.org/10.3389/fphar.2026.1750796
+
+---
+
+**Developmental Exposure to Environmental Toxicants Alters Neuroimmune and Retinal Function**  
+*Brain, Behavior, and Immunity (2025)*  
+Analysis of neuroimmune and physiological consequences following developmental exposure to environmental toxicants using zebrafish models.  
+https://doi.org/10.1016/J.BBI.2024.12.073
+
+---
+
+**Endocrine Disruptor Effects on Zebrafish Retinal Physiology and Electrophysiology**  
+*Comparative Biochemistry and Physiology Part C: Toxicology & Pharmacology (2025)*  
+Characterization of retinal and electrophysiological alterations following exposure to endocrine disrupting compounds.  
+https://doi.org/10.1016/j.cbpc.2025.110416
+
+---
+
+**Protocol for Assessing Zebrafish Visual System and Retinal Function**  
+*Journal of Visualized Experiments (JoVE) (2024)*  
+Experimental and analytical protocol for zebrafish retinal physiology and visual system assessment workflows.  
+https://doi.org/10.3791/66879
+
+---
+
+**Neural and Electrophysiological Mechanisms in Zebrafish Retinal Function**  
+*eLife (2024)*  
+Research examining retinal signaling and electrophysiological mechanisms in zebrafish visual system models.  
+https://doi.org/10.7554/eLife.88551.3
+
+---
+
+**Development of a Transparent Transgenic Zebrafish Cellular Phenotype Tg(6xNF-kB:EGFP); Casper(roy−/−, nacre−/−) to Study NF-kB Activity**  
+*Biomedicines (2023)*  
+Development of a transparent transgenic zebrafish model for visualizing NF-kB signaling activity in vivo for inflammation, disease modeling, and pharmacological studies.  
+https://doi.org/10.3390/biomedicines11071985
+
+---
+
+### Current Computational Research
+
+#### ZEUS — Zebrafish Electroretinography Utility Suite
+An R-based framework for reproducible ERG analysis, validation, visualization, and waveform processing for electrophysiology workflows.
+
+#### ERG Treatment Classification Pipeline
+Deep learning and feature-engineering framework for identifying toxicological and pharmacological treatment signatures from electrophysiological recordings using CNN-based architectures.
+
+#### Endocrine Disruptor Retinal Analysis
+Computational analysis of retinal physiology changes following developmental exposure to endocrine disrupting compounds including BPA and tributyltin.
+
+---
+
+### Research Interests
+
+- Machine Learning for Scientific Data
+- Electrophysiology and Biomedical Signal Processing
+- Computational Neuroscience
+- Deep Learning and Neural Networks
+- Retinal Physiology and ERG Analysis
+- Toxicology and Endocrine Disruption
+- Scientific Software Development
+- Reproducible Computational Pipelines
+
 ## GitHub Analytics
 
 <p align="center">
@@ -127,17 +173,6 @@ A reproducible R-based analysis framework for electroretinography (ERG) data pro
 <p align="center">
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lo2252&theme=github" />
 </p>
-
----
-
-## Publications & Academic Work
-
-Research areas include:
-- Zebrafish electroretinography
-- Retinal electrophysiology
-- Biomedical signal analysis
-- Machine learning applications in neuroscience
-- Reproducible computational workflows
 
 ---
 
