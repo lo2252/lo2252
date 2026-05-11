@@ -77,9 +77,12 @@ Check out my [repositories](https://github.com/lo2252?tab=repositories) for more
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lo2252&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lo2252&layout=compact&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lo2252&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Logan's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lo2252&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Logan's Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lo2252&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
