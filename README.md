@@ -8,9 +8,13 @@
 
 ## About Me
 
-- I'm building open-source and personal software projects.
-- I'm interested in scientific software, data workflows, and practical tooling.
-- Ask me about software development, open-source work, and tech projects.
+  I recently completed a Master’s degree in Neuroscience and a Certificate in Data Science at American University. I am currently seeking internship or entry-level opportunities in Data Science, Data Analytics, Biotechnology, or Healthcare where I can apply my analytical and research skills to real-world problems.
+
+  My coursework and research focus on R package development, neural networks, and electrophysiology analysis, using computational methods to extract insights from complex data. I am particularly interested in developing tools and models that transform messy data into insights for research and decision-making.
+
+  I am especially interested in opportunities with organizations that leverage data to optimize systems, improve research outcomes, and develop impactful technologies for broader use. Through my academic training and research experience, I have developed a strong foundation in data analysis, machine learning, and scientific computing, alongside hands-on experience in laboratory research and hypothesis testing.
+
+  I enjoy bridging computational methods, biological questions, and practical applications. I am passionate about the potential of AI-driven approaches to advance scientific discovery, healthcare innovation, and technology development.
 
 ---
 
@@ -20,31 +24,42 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Programming"/>
+  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Tidyverse-1A162D?style=for-the-badge&logo=r&logoColor=white" alt="Tidyverse"/>
+  <img src="https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="ggplot2"/>
+  <img src="https://img.shields.io/badge/dplyr-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="dplyr"/>
+  <img src="https://img.shields.io/badge/Shiny-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="Shiny"/>
+  <img src="https://img.shields.io/badge/glmnet-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="glmnet"/>
+  <img src="https://img.shields.io/badge/TidyModels-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="Tidymodels"/>
+  <img src="https://img.shields.io/badge/Partykit-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="Partykit"/>
 </p>
 
 ### Tools & Platforms
 
 <p>
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+  <img src="https://img.shields.io/badge/Positron-4479A1?style=for-the-badge&logo=rstudioide&logoColor=white" alt="Positron IDE"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
 </p>
 
 ---
