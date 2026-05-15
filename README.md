@@ -22,9 +22,9 @@
 
 I recently completed a Master’s degree in Neuroscience and a Certificate in Data Science at American University. My work focuses on machine learning, electrophysiology analysis, scientific computing, and reproducible research workflows.
 
-I develop computational tools for analyzing biological data, with an emphasis on transforming complex datasets into actionable insights for research and decision-making. My interests include neural networks, AI-driven scientific analysis, and data visualization for healthcare and biotechnology applications.
+I develop computational tools for analyzing biological data, with an emphasis on transforming complex datasets into actionable insights for research and decision-making. My interests include neural networks, AI-driven scientific analysis, and data visualization.
 
-Currently, I am seeking opportunities in Data Science, Data Analytics, Biotechnology, Healthcare Analytics, and Machine Learning Engineering.
+Currently, I am seeking opportunities in Data Science, Data Analytics, and Machine Learning Engineering.
 
 ---
 
