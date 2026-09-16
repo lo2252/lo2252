@@ -120,16 +120,16 @@ https://doi.org/10.1016/j.cbpc.2025.110416
 
 ---
 
-**Protocol for Assessing Zebrafish Visual System and Retinal Function**  
+**Limited Bedding and Nesting as a Model for Early-Life Adversity in Mice**  
 *Journal of Visualized Experiments (JoVE) (2024)*  
-Experimental and analytical protocol for zebrafish retinal physiology and visual system assessment workflows.  
+This protocol describes an animal model for studying how early-life adversity, provoked by an impoverished environment and unpredictable maternal care during the early postnatal period, affects brain development and the future risk of mental disorders.  
 https://doi.org/10.3791/66879
 
 ---
 
-**Neural and Electrophysiological Mechanisms in Zebrafish Retinal Function**  
+**Myomatrix arrays for high-definition muscle recording**  
 *eLife (2024)*  
-Research examining retinal signaling and electrophysiological mechanisms in zebrafish visual system models.  
+We present a novel class of electrode devices (‘Myomatrix arrays’) that record muscle activity at unprecedented resolution across muscles and behaviors. High-density, flexible electrode arrays allow for stable recordings from the muscle fibers activated by a single motor neuron, called a ‘motor unit,’ during natural behaviors in many species, including mice, rats, primates, songbirds, frogs, and insects.   
 https://doi.org/10.7554/eLife.88551.3
 
 ---
