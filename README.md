@@ -154,17 +154,6 @@ Computational analysis of retinal physiology changes following developmental exp
 
 ---
 
-### Research Interests
-
-- Machine Learning for Scientific Data
-- Electrophysiology and Biomedical Signal Processing
-- Computational Neuroscience
-- Deep Learning and Neural Networks
-- Retinal Physiology and ERG Analysis
-- Toxicology and Endocrine Disruption
-- Scientific Software Development
-- Reproducible Computational Pipelines
-
 ## GitHub Analytics
 
 <p align="center">
